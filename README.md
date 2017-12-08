@@ -1,3 +1,4 @@
 # mkolsenfb.github.io
-Hello World!
-<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/ol" ></script>
+###360
+
+<script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/mkolsen11/teacher-photo'></script>
